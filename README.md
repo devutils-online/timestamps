@@ -59,3 +59,5 @@ Whether you're a developer debugging an API response, a data analyst normalizing
 - [Gravatar](https://gravatar.com/freelything1dfe2f392c)
 - [dibiz](https://www.dibiz.com/duanhjlt+timestamp)
 - [proko](https://www.proko.com/@timestamp)
+- [Behance](https://www.behance.net/bratgenerator)
+- [linkr.bio](https://linkr.bio/bratgenerator)
